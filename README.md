@@ -54,7 +54,6 @@ Calculator App/
 
 ![Calculator Screenshot](./calculator%20Screenshot%20.png)
 
----
 
 ## 📝 License
 
