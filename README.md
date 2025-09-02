@@ -52,7 +52,7 @@ Calculator App/
 
 ## 📸 Screenshots
 
-![Calculator Screenshot](calculator screenshot.png)
+![Calculator Screenshot](calculator Screenshot.png)
 
 ---
 
